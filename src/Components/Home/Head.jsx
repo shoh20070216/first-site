@@ -16,9 +16,9 @@ function Head() {
                     </div>
                     <div className="body">
                         <LiaHamburgerSolid style={{ fontSize: '110px', marginTop: '100px' }} />
-                        <h1>FAST FOOD AND <br /> RESTAURANT</h1>
+                        <h1>FAST FOOD AND <br /> SHOX RESTAURANT</h1>
                         <p>Burger House - perfect template for any Restaurant, Cafe & Fast Food business. Looks  good on all types of screens devices and platforms. Documented well and very easy to  customize & does not require much knowledge of coding.</p>
-                        <button>VIEW DEMOS</button>
+                        <button>JOIN AS</button>
                         <div className="img_bottom">
                             <img src={logo} alt="" />
                         </div>
